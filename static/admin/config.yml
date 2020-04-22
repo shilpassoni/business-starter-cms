@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master
-  repo: shilpassoni/gatsby-business-cms
+  repo: shilpassoni/business-starter-cms
 
 publish_mode: editorial_workflow
 media_folder: static/img
