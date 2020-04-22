@@ -17,19 +17,15 @@ offerings:
         magna, vestibulum non vehicula id, pellentesque in ante. Nullam  sed
         auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis
         mi.  Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+    - image: /img/image-2.jpg
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id
-        tortor.  Sed eget ornare orci, quis dignissim nulla. Pellentesque
-        aliquam consectetur congue.
+        The pursuit of effective use of space, user well-being and functional
+        design has contributed to the development of the contemporary interior
+        design profession. The profession of interior design is separate and
+        distinct from the role of interior decorator, a term commonly used in
+        the US; the term is less common in the UK, where the profession of
+        interior design is still unregulated and therefore, strictly speaking,
+        not yet officially a profession.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
