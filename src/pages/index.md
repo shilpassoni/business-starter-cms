@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Amaya
+title: Rivertern
 heading: We provide best decor!
 description: The art lies in beautiful designs and in beautifully crafted homes!
 offerings:
@@ -51,6 +51,20 @@ offerings:
         odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
         massa quis euismod convallis, felis elit sodales urna, at aliquet mi
         elit auctor  risus.
+    - image: /img/35133922._uy630_sr1200-630_.jpg
+      text: >-
+        Educated: A Memoir is a 2018 memoir by American author Tara Westover,
+        published by Random House on February 18, 2018. The memoir concerns
+        Westover overcoming her survivalist Mormon family to go to college. It
+        details her journey from her isolated life in the mountains of Idaho to
+        getting into the PhD program at Cambridge University. Westover describes
+        her journey of having no formal education to suddenly being in college
+        at the age of seventeen; as well as her struggles to fit into the world
+        her radical survivalist father created for her and the world beyond the
+        mountains.
+
+
+        As of April 2020, it has spent 110 weeks on The New York Times Non-Fiction Best Seller list.[2] It won a 2019 Alex Award and was shortlisted for the 2019 PEN/Jean Stein Book Award.
 testimonials:
   - author: Vaibhav Sharma
     quote: "Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
@@ -60,7 +74,9 @@ testimonials:
     quote: Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: Home | Amaya
+  - quote: Gatsby and Netlify CMS work like a charm
+    author: Brad Pitt
+meta_title: Home | Rivertern
 meta_description: Cum sociis natoque penatibus et magnis dis parturient montes,
   nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia
   quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras
