@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Amaya
+title: Rivertern
 heading: We provide best decor!
 description: The art lies in beautiful designs and in beautifully crafted homes!
 offerings:
